@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "TheSansArabic-Bold";
+	src: url("../fonts/TheSansArabic-Bold.woff");
+}
+
+@font-face {
+	font-family: "TheSansArabic-SemiBold";
+		 src: url("../fonts/TheSansArabic-SemiBold.woff");
+}
+
+body {
+	font-family: "TheSansArabic-SemiBold";
+}
